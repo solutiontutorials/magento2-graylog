@@ -10,7 +10,6 @@
             "name": "Hieu Le"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
         "php": ">=5.6",
         "graylog2/gelf-php": "~1.5"
