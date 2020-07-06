@@ -1,4 +1,4 @@
-# Mage2 Module Solutiontutorials Graylog
+# Graylog for Magento 2
 
     ``solutiontutorials/module-graylog``
 
